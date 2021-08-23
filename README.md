@@ -8,5 +8,8 @@
 # Output After encryption
 ![Screenshot (405)](https://user-images.githubusercontent.com/77244089/130501704-54cbb202-9f67-4269-87a9-fc222f0e955a.png)
 
+# The image
+![Screenshot (411)](https://user-images.githubusercontent.com/77244089/130503188-93fb1574-99e7-4b84-a568-28a10459a708.png)
+
 # Files which are hidden inside image using image steganography
 ![Screenshot (413)](https://user-images.githubusercontent.com/77244089/130501883-b951eefb-7b57-4da2-b582-11dfd92fcea7.png)
