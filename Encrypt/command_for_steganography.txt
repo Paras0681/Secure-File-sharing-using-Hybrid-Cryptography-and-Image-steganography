@@ -1,0 +1,1 @@
+copy /b image1.png+important_file.zip image2.png
